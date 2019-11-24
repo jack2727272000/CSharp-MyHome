@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("小叮噹!!快拿出任意門，我要去Hebe家");
             Console.WriteLine("Hebe也太正了吧!!!");
 
+            Console.WriteLine("Hebe!跟我結婚吧˙");
             Console.ReadLine();
         }
     }
