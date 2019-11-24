@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HelloWorld");
             Console.WriteLine("小叮噹!!快拿出任意門，我要去Hebe家");
+            Console.WriteLine("Hebe也太正了吧!!!");
 
             Console.ReadLine();
         }
